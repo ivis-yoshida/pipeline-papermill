@@ -16,7 +16,5 @@ dependencies:
   - wheel=0.37.0
   - pygraphviz=1.7
   - pip:
-    - ploomber==0.12.8
-    - ploomber-scaffold==0.2.4
     - datalad
 prefix: /Users/Edu/miniconda3/envs/ploomber-workshop

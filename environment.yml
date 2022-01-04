@@ -17,4 +17,5 @@ dependencies:
   - pygraphviz=1.7
   - pip:
     - datalad
+    - papermill
 prefix: /Users/Edu/miniconda3/envs/ploomber-workshop
